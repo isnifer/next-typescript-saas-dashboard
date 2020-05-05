@@ -1,0 +1,49 @@
+{
+  "name": "next-typescript-saas-dashboard",
+  "version": "1.0.0",
+  "description": "SaaS Dashboard project built on Twitch/Youtube Streams",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnifer/next-typescript-saas-dashboard.git"
+  },
+  "keywords": [
+    "next",
+    "typescript",
+    "fluent",
+    "tailwind"
+  ],
+  "author": "Anton Kuznetsov (https://github.com/isnifer) <isnifer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isnifer/next-typescript-saas-dashboard/issues"
+  },
+  "homepage": "https://github.com/isnifer/next-typescript-saas-dashboard#readme",
+  "dependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.8.3",
+    "@detools/eslint-config": "^1.2.0",
+    "@fluentui/react": "^7.110.2",
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "immer": "^6.0.3",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0",
+    "tailwindcss": "^1.4.4",
+    "use-immer": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "eslint": "^6.8.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.8.3"
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="26px" viewBox="0 0 148 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Pre-Designed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_SAASDUNK_Sign_Up" transform="translate(-38.000000, -96.000000)">
+            <g id="Form_Sign-Up" transform="translate(35.000000, 96.000000)">
+                <g id="Group-2" transform="translate(5.000000, -0.000000)">
+                    <text id="SaaSdunk." font-family="Inter-ExtraBold, Inter" font-size="21.5999994" font-weight="600" letter-spacing="0.5" fill="#0080FF">
+                        <tspan x="30.139206" y="21">SaaS</tspan>
+                        <tspan x="85.9704546" y="21" font-family="Inter-Medium, Inter" font-weight="400">dunk.</tspan>
+                    </text>
+                    <g id="Group-15" transform="translate(0.000000, 4.300000)" stroke="#0080FF" stroke-width="2.24999994">
+                        <polygon id="Path" points="10.7999997 8.77162291e-15 -1.23526186e-14 14.2718379 10.7999997 18.436552 21.5999994 14.2718379"></polygon>
+                        <line x1="10.7876452" y1="12.3655181" x2="10.7876452" y2="1.56551838" id="Line-3" stroke-linecap="square"></line>
+                        <line x1="10.7876452" y1="12.3655181" x2="0.887645505" y2="14.1655181" id="Line-3" stroke-linecap="square"></line>
+                        <line x1="10.7876452" y1="12.3655181" x2="20.687645" y2="14.1655181" id="Line-3" stroke-linecap="square"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
